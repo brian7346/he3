@@ -1,0 +1,9 @@
+{
+  "name": "he3",
+  "version": "1.0.0",
+  "description": "Воркшоп, созданный с помощью wannacode",
+  "scripts": {
+    "new-task": "wannacode new-task",
+    "create-topic": "wannacode create-topic"
+  }
+}
